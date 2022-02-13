@@ -13,7 +13,7 @@ npm install -g truffle
 2. Install Ganache and metamask from web browser after installing set it up.
 
 3. Clone the gitHub repository 
-git clone "https://github.com/Anshul758/Ethereum_Evoting"
+git clone "https://github.com/FABhishek/Ethereum_Evoting"
 
 4. Now open the project in your vs code and open ganache also side by side 
 
