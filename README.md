@@ -23,7 +23,7 @@ truffle migrate --reset (this command will upload the smart contract from your l
 6. Finally run npm run dev command and you're good to go.
 
 # Steps to cast vote:-
-### first of all, set up a truffle and link the network with your metamask.
+### first of all, set up a truffle and link the network with your metamask usging ganache.
 ![image](https://user-images.githubusercontent.com/52832978/153744531-63b10f2c-6df8-4dd1-81fa-0f9c0d14a009.png)
 
 ### List of candidates, you can choose anyone to vote
